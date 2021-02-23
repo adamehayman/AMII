@@ -14,5 +14,7 @@ Each week, a lab was designed to reinforce the lecture materials and incremental
 *  Decision Trees & Evaluation  
 *  Data Cleaning  
 *  kNN  
-*  Regression
+*  Regression  
+
+In this repository, I will be exploring the NASA turbofan engine degradation simulation dataset (CMAPSS). I will be implementing and experimenting with various algorithms and ML architecture techniques to boost model performance.
 
